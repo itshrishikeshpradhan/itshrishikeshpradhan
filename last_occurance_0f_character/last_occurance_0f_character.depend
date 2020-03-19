@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574569743 source:c:\users\hp\desktop\rishi\last_occurance_0f_character\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

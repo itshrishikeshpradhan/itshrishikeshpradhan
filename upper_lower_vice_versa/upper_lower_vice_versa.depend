@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574570979 source:c:\users\hp\desktop\rishi\upper_lower_vice_versa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
